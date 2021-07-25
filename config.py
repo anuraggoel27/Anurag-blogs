@@ -1,1 +1,2 @@
 SECRET_KEY = '8BYkEfBA6O6donzWlSihBXox7C0sKR6b'
+DATABASE_URL="postgres://iwgtpivfyuhkyy:22177d2d37561dc7e8c8bfb94594fd634d2a5c432f7c9b375c634b62a3572d2c@ec2-52-45-179-101.compute-1.amazonaws.com:5432/d34cjr4v3cebd5"
